@@ -1,0 +1,14 @@
+html{font-family:Verdana, Geneva, Tahoma, sans-serif ; font-size: 15px; }
+.my-img{ width: 200px; padding-left:90px  ; }
+body{background-color:#d0fad0 ;}
+.containers{display:flex ;flex-flow:row wrap;box-sizing: border-box;justify-content: space-around;}
+.containers{background-color: color-mix(in hsl shorter hue, color percentage, color percentage);}
+.container-one{background-color: #dca177;padding: 20px;}
+.container-two{ background-color: #c35e16;padding: 20px; ;}
+.container-three{ background-color: #46f649;padding: 20px;}
+.container-four{background-color: #7792dc;padding: 20px;}
+.cont-one-info{  color: #333333;}
+.cont-two-info{  color: #333333; padding-top:36px ;}
+.cont-three-info{  color: #333333;padding-top:36px }
+.cont-four-info{  color: #333333 ;}
+.body-text{ color: cadetblue; text-decoration: none; padding-left:20px; text-align: right; }

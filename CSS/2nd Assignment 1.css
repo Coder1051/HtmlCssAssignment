@@ -1,0 +1,32 @@
+.one{
+    background-color: #e2e2e2;
+    padding: 2px;
+    box-sizing: border-box;
+}
+strong{
+text-decoration: solid;
+
+
+}
+.two{
+background-color: #e2e2e2;
+padding: 4px;
+box-sizing: border-box;
+
+}
+em{
+text-decoration: line-through;
+color: green;
+}
+.three{
+    background-color: #e2e2e2;
+    padding: 4px;
+    box-sizing: border-box;
+    
+    }
+    .four{
+        background-color: #e2e2e2;
+        padding: 4px;
+        box-sizing: border-box;
+
+    }

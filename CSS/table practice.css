@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: #e8e87a;
+    background-color: #732cb6;
+}
+ table{
+    width: 100%;
+  
+  
+}
+
+td{
+    border:solid 1px;
+  padding: left 3px ;
+}

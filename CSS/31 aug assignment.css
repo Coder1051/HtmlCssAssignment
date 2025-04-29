@@ -1,0 +1,23 @@
+html{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 16px;
+}
+.containers{
+display: flex;
+
+}
+.container-one{
+    width: 40%;
+ box-sizing: border-box;
+ padding-left: 20px;
+            
+}
+.container-two{
+    width: 50%;
+ 
+            
+}
+.my-image{
+    width: 100%;
+    padding: 50px;
+}
